@@ -10,6 +10,7 @@ Hello! This is the GitHub of [River Games](https://rivergames.ca).<br><br><br>
 * [Technetium](https://technetium.rivergames.ca)
 * RIVER Island
 * Mini Mayhem Reimagined
+* LineCore OS
 ### Released
 (None at the moment)
 ### Paused
