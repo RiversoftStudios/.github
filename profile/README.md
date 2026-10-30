@@ -27,4 +27,4 @@ Hello! This is the GitHub of [River Games](https://rivergames.ca).<br><br><br>
 [![Download the Games on Itch.io](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/itch-icon.svg)](https://river-games.itch.io/)
 [![Follow on Github](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg)](https://github.com/RiverGamesStudios/)
 [![Join the Discord](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord-icon.svg)](https://discord.gg/8KBD6xXnzE)
-[Join the Matrix space](https://matrix.to/#/#rivergamespublicspace:matrix.org)
+[![Join the Matrix space](https://github.com/user-attachments/assets/17549a00-4698-4a81-abc1-299ca540f706)](https://matrix.to/#/#rivergamespublicspace:matrix.org)
